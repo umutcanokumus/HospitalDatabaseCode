@@ -1,9 +1,6 @@
 
 //--------------------------------------------------------
 // Title: Patient Class
-// Author:Umutcan OKUMUŞ
-// ID: 43057338238
-// Section: 02
 // Assignment: 3
 // Description: This class represents a patient in a hospital system. Each patient
 //// is associated with a doctor, a visit date, and a care team (medical staff members).
