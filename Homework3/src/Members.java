@@ -1,8 +1,5 @@
 //--------------------------------------------------------
 // Title: Members Class
-// Author:Umutcan OKUMUŞ
-// ID: 43057338238
-// Section: 02
 // Assignment: 3
 // Description: This class represents a medical staff member (Member) associated
 //// with a patient. It stores the member's first name, last name, and role, and
