@@ -1,9 +1,6 @@
 import java.util.List;
 //--------------------------------------------------------
 // Title: Hospital Database Class
-// Author:Umutcan OKUMUŞ
-// ID: 43057338238
-// Section: 02
 // Assignment: 3
 // Description: This class represents a hospital database system. It allows adding,
 //// removing, and managing patients and their associated medical staff (care team).
