@@ -1,8 +1,5 @@
 //--------------------------------------------------------
 // Title: Binary Search Tree (BST) Class
-// Author:Umutcan OKUMUŞ
-// ID: 43057338238
-// Section: 02
 // Assignment: 3
 // Description: This class implements a generic Binary Search Tree (BST) where
 // values are stored in a sorted manner. It provides methods to add, retrieve,
